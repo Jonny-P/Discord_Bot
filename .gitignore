@@ -3,3 +3,5 @@ dependecies.txt
 temp.py
 launch.json
 img
+data_pickle
+web_scraping.py
