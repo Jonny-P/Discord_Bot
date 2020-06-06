@@ -64,6 +64,7 @@ token = read_token()
 client = discord.Client()
 
 
+
 async def update_free_games_stats():
     await client.wait_until_ready()
     id = client.get_guild(143361209591136256)
